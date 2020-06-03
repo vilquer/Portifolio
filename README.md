@@ -7,10 +7,10 @@
 # Vilquer Oliveira
 <sub>*Beguiner Data Scientist*</sub>
 
-Eu sou um cientista de dados iniciante que tem uma grande paixão pela inovação, por novas tecnologias e por solucionar problemas de negócios não estruturados.
-Tenho excelentes habilidades de liderança, comunicação e trabalho em equipe.
-Experiencia em atendimento ao cliente, suporte ao usuário e mineração de dados.
-Meu interesse profissional é trabalhar e me destacar no campo da ciência de dados.
+<p>Eu sou um cientista de dados iniciante que tem uma grande paixão pela inovação, por novas tecnologias e por solucionar problemas de negócios não estruturados.</p>
+<p>Tenho excelentes habilidades de liderança, comunicação e trabalho em equipe.</p>
+<p>Experiencia em atendimento ao cliente, suporte ao usuário e mineração de dados.</p>
+<p>Meu interesse profissional é trabalhar e me destacar no campo da ciência de dados.</p>
 
 
 **Histórico em:** Python, Power BI, SPSS, Microsoft Excel.
