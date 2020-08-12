@@ -1,4 +1,4 @@
-## [Autor |](https://bit.ly/3dvpXSP) [Python |](https://www.python.org/) [GPLv3 license |](http://perso.crans.org/besson/LICENSE.html) [Contribuições](https://github.com/vilquer/Python/issues)
+## [Autor |](https://bit.ly/3dvpXSP) [Python |](https://www.python.org/) [GPLv3 license |](https://www.gnu.org/licenses/gpl-3.0.pt-br.html) [Contribuições](https://github.com/vilquer/Python/issues)
 
 <p align="center">
   <img src="banner.png" >
