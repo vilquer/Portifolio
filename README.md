@@ -23,7 +23,7 @@
 
 ## Projetos:
 #### Python
-* [**Ambiente grafico para consulta dos dados públicos da RFB**](https://bit.ly/2Y9mT8W)
+* [**Ambiente gráfico para consulta dos dados públicos da RFB**](https://bit.ly/2Y9mT8W)
 #### PowerBI
 * [**Análise Titanic**](https://bit.ly/2zRtlJ8)
 
